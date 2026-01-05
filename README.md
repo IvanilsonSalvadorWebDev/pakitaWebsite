@@ -2,7 +2,7 @@
 
 A Pakita Excellence é uma Landing Page de alta performance desenvolvida para o mercado angolano (2026), focada em converter visitantes em leads através de uma experiência de usuário (UX) fluida, design moderno e infraestrutura de ponta.
 
-![Página Inicial da Pakita](./assets/screenshots/home.png)
+![Página Inicial da Pakita](./screenshots/home.png)
 ![Vercel Deploy](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
